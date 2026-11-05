@@ -1,0 +1,5 @@
+interface:
+  display_name: "CityUHK Academic Slides"
+  short_description: "Create editable CityUHK-style academic slide decks."
+  default_prompt: "Use $cityu-presentation-style to create an editable CityUHK-style academic presentation from my material."
+  brand_color: "#C0055A"
